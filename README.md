@@ -1,7 +1,7 @@
 # WEATHER APP
 
 This is React.js Web app using "open weather map" API and Material UI for React.
-This app displays the weather data for current location and you can also search for the weather data for a city.The weather data includes current temperature, current climate conditions, minimum temp, max temperature, wind speed for the entered destination.
+This app displays the weather data for the current location and you can also search for the weather data for a city.The weather data includes current temperature, current climate conditions, minimum temp, max temperature, wind speed for the entered destination.
 
 ## Available Scripts
 
